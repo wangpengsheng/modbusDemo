@@ -1,0 +1,17 @@
+d:\source\vscode\modbusDemo\Demo\bin\Debug\net7.0\Demo.exe
+d:\source\vscode\modbusDemo\Demo\bin\Debug\net7.0\Demo.deps.json
+d:\source\vscode\modbusDemo\Demo\bin\Debug\net7.0\Demo.runtimeconfig.json
+d:\source\vscode\modbusDemo\Demo\bin\Debug\net7.0\Demo.dll
+d:\source\vscode\modbusDemo\Demo\bin\Debug\net7.0\Demo.pdb
+d:\source\vscode\modbusDemo\Demo\bin\Debug\net7.0\NModbus.dll
+d:\source\vscode\modbusDemo\Demo\obj\Debug\net7.0\Demo.csproj.AssemblyReference.cache
+d:\source\vscode\modbusDemo\Demo\obj\Debug\net7.0\Demo.GeneratedMSBuildEditorConfig.editorconfig
+d:\source\vscode\modbusDemo\Demo\obj\Debug\net7.0\Demo.AssemblyInfoInputs.cache
+d:\source\vscode\modbusDemo\Demo\obj\Debug\net7.0\Demo.AssemblyInfo.cs
+d:\source\vscode\modbusDemo\Demo\obj\Debug\net7.0\Demo.csproj.CoreCompileInputs.cache
+d:\source\vscode\modbusDemo\Demo\obj\Debug\net7.0\Demo.csproj.CopyComplete
+d:\source\vscode\modbusDemo\Demo\obj\Debug\net7.0\Demo.dll
+d:\source\vscode\modbusDemo\Demo\obj\Debug\net7.0\refint\Demo.dll
+d:\source\vscode\modbusDemo\Demo\obj\Debug\net7.0\Demo.pdb
+d:\source\vscode\modbusDemo\Demo\obj\Debug\net7.0\Demo.genruntimeconfig.cache
+d:\source\vscode\modbusDemo\Demo\obj\Debug\net7.0\ref\Demo.dll

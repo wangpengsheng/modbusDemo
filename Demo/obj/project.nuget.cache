@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KUDhmTnEJTVAnDfEO3GKdbVp7SBm5MxbPXzJzhsb64EKsZUyKLuFPJeq01hWpbVn8HVHx8oTZfa3GDGV2zSEUQ==",
+  "success": true,
+  "projectFilePath": "D:\\source\\vscode\\modbusDemo\\Demo\\Demo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pehnwang\\.nuget\\packages\\nmodbus\\3.0.78\\nmodbus.3.0.78.nupkg.sha512"
+  ],
+  "logs": []
+}
